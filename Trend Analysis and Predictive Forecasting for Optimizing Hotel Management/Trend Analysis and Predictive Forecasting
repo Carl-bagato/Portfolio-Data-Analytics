@@ -1,6 +1,0 @@
-# Big Data Stock Market Analytics
-
-- Processed and merged large-scale **Philippine Stock Exchange** data using **PySpark**.  
-- Created trend indicators such as **moving averages, volatility bands, and strength indexes** to make stock movements easier to interpret.  
-- Designed a **real-time monitoring pipeline** in Colab.  
-- Built **interactive dashboards in Google Looker** for financial insights.
