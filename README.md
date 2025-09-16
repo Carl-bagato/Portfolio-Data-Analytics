@@ -1,8 +1,8 @@
-Data Analytics Portfolio
+📊 Data Analytics Portfolio
 
 This repository contains a collection of my data analytics projects completed during my academic studies, online courses, and self-learning practice. The projects showcase my skills in data preprocessing, visualization, statistical analysis, predictive modeling, and dashboard development using industry-standard tools.
 
-Projects
+🔍 Projects
 1. Big Data Stock Market Analytics
 
 Processed and merged large-scale Philippine Stock Exchange datasets using PySpark.
@@ -29,7 +29,7 @@ Created ER diagrams and enforced relationships for data integrity.
 
 Wrote optimized SQL queries for reporting and analytics.
 
-Tools & Technologies
+🛠️ Tools & Technologies
 
 Languages: Python (pandas, numpy, scikit-learn, matplotlib, seaborn), SQL, R (basic)
 
@@ -41,7 +41,7 @@ Database: MySQL / PostgreSQL
 
 Environment: Jupyter Notebook, Google Colab
 
-Key Skills Demonstrated
+🎯 Key Skills Demonstrated
 
 Data Cleaning & Preprocessing
 
